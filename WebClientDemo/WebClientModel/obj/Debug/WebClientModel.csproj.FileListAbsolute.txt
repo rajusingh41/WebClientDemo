@@ -1,0 +1,5 @@
+D:\LocalIIS\WebClientDemo\WebClientModel\bin\Debug\WebClientModel.dll
+D:\LocalIIS\WebClientDemo\WebClientModel\bin\Debug\WebClientModel.pdb
+D:\LocalIIS\WebClientDemo\WebClientModel\obj\Debug\WebClientModel.dll
+D:\LocalIIS\WebClientDemo\WebClientModel\obj\Debug\WebClientModel.pdb
+D:\LocalIIS\WebClientDemo\WebClientModel\obj\Debug\WebClientModel.csprojResolveAssemblyReference.cache

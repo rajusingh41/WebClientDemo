@@ -1,0 +1,10 @@
+D:\LocalIIS\WebClientDemo\WebClientConsole\bin\Debug\WebClientConsole.exe.config
+D:\LocalIIS\WebClientDemo\WebClientConsole\bin\Debug\WebClientConsole.exe
+D:\LocalIIS\WebClientDemo\WebClientConsole\bin\Debug\WebClientConsole.pdb
+D:\LocalIIS\WebClientDemo\WebClientConsole\bin\Debug\Newtonsoft.Json.dll
+D:\LocalIIS\WebClientDemo\WebClientConsole\bin\Debug\WebClientModel.dll
+D:\LocalIIS\WebClientDemo\WebClientConsole\bin\Debug\WebClientModel.pdb
+D:\LocalIIS\WebClientDemo\WebClientConsole\bin\Debug\Newtonsoft.Json.xml
+D:\LocalIIS\WebClientDemo\WebClientConsole\obj\Debug\WebClientConsole.csprojResolveAssemblyReference.cache
+D:\LocalIIS\WebClientDemo\WebClientConsole\obj\Debug\WebClientConsole.exe
+D:\LocalIIS\WebClientDemo\WebClientConsole\obj\Debug\WebClientConsole.pdb
